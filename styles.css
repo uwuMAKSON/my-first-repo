@@ -4,6 +4,7 @@ div {
     height: 300px;
     border-radius: 100%;
 box-shadow: 0 0 10px black;
+overflow: hidden;
 }
 img{
     width: 100%;
